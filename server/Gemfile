@@ -13,8 +13,8 @@ gem 'unicorn'
 # And Thin as our backup
 gem 'thin'
 
-gem 'activesupport', '~>4.1'
-gem 'activerecord', '~>4.1'
+gem 'activesupport', '~>7.0'
+gem 'activerecord', '~>7.0'
 gem 'bcrypt-ruby', '~> 3.1.5'
 
 gem 'rake'
